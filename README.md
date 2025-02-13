@@ -49,5 +49,5 @@ Dette afsnit skal beskrive en funktion I selv har udviklet. Det kunne eksempelv
 - Parametre: Hvilke input forventes (fx en værdi fra en dropdown eller URL'en)?
 - Returnerer: Beskriv, om funktionen returnerer en værdi eller blot manipulerer DOM’en.
 - Eksempel på brug: Vis, hvordan funktionen kaldes og anvendes.
-- Inkluder selve koden for den valgte funktion.
+- Inkluder koden for den valgte funktion herunder:
 

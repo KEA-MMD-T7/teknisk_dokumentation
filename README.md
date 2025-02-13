@@ -30,7 +30,7 @@ Brug  korte beskrivelser, som i eksemplerne herover
 
 ## Dokumentation af Funktion
 
-Her skal I i **fællesskab** finde og beskrive **en** funktion I selv har udviklet. Det kunne eksempelvis være en funktion der generere en listen over fx. produkter:&#x20;
+Her skal I i **fællesskab** finde og beskrive **en** funktion I selv har udviklet. Det kunne eksempelvis være en funktion der generere en listen over produkter:&#x20;
 
 - **Beskrivelse**: Hvad gør funktionen? Hvordan spiller den sammen med resten af koden?
 - **Parametre**: Hvilke input forventes (fx en værdi fra en dropdown eller URL'en)?

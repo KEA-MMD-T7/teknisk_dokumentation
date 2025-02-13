@@ -1,5 +1,5 @@
 # Teknisk Dokumentation for Tema 7 Projekt
-I den tekniske dokumentation skal i blandt andet indgå en aftale, om nogen for dette projekt fælles retningslinier, som tilstræber at uanset hvor I hopper ind i kodebasen, er alle filer familiære og ser ud, som hvis du selv havde navngivet dem. 
+I den tekniske dokumentation skal I beslutte fælles retningslinjer for, hvordan I arbejder i projektet. Målet er, at uanset hvor I arbejder i kodebasen, skal filerne være lette at forstå og have en ensartet navngivning, som hvis I selv havde navngivet dem 
 
 ## Kode Styleguide
 Når I er flere der bidrager til én kodebase, lærer man hurtigt, at ens sædvanlige måder at gøre tingene på ikke nødvendigvis er logisk for alle. Derfor skal I herunder dokumentere nogen retningslinier, der sikre, at koden forbliver overskuelig og let at arbejde med og til at forstå for alle.

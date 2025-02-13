@@ -23,7 +23,7 @@ I dette afsnit skal I beslutte hvordan i vil navngive filer og mapper for at sik
 - Hvordan navngiver I branches, så alle kan forstår hvem der arbejder på hvad? (fx feature-lotte-formular)
 
 # Arbejdsflow
-- Hvordan fordeler I arbejdet, så der ikke arbejdes i de samme filer samtidigt?
+- Hvordan fordeler I arbejdet, så I ikke arbejdes i de samme filer samtidigt?
 - Hvordan sikrer I, at commit-beskeder er beskrivende?
   
 Skriv jeres egne retningslinjer for hver af de fire punkter ovenfor, så de passer til jeres arbejdsproces. Kontrakten skal sikre, at alle i gruppen følger de samme principper for at undgå konflikter og skabe en overskuelig kodebase.

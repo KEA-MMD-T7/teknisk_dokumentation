@@ -38,7 +38,11 @@ Dette afsnit skal forklare hvad I konkret har arbejde med, for at udvikle websit
 
 Brug korte beskrivelser, som i eksemplerne herover
 
-## Dokumentation af Funktion
+# Dokumentation af de API endpoints
+Dette afsnit skal forklare liste de endpoints fra API'et i har benyttet:
+- (fx. https://dummyjson.com/products)
+
+# Dokumentation af Funktion
 Dette afsnit skal beskrive en funktion I selv har udviklet. Det kunne eksempelvis være en funktion der generere en listen over fx. produkter: 
 
 - Beskrivelse: Hvad gør funktionen? Hvordan spiller den sammen med resten af koden?

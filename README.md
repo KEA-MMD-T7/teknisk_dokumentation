@@ -1,12 +1,17 @@
-# Teknisk Dokumentation for Tema7 Projekt
+# Teknisk Dokumentation for Tema 7 Projekt
 
 ## Introduktion
+Dokumentation har til formål at gøre projektet og kodebasen mere tilgængelig, så det er nemt for jer at vende tilbage senere eller genbruge kode herfra i nye projekter. Ved at skulle beskrive jeres egen kode, får I en dybere forståelse for, hvordan koden fungerer, og hvorfor bestemte løsninger er valgt. I dette afsnit skal I kort introducere jeres kodebase ved at beskrive jeres tech-stack – hvilke teknologier I har anvendt til at udvikle websitet. Forklar, hvorfor I har valgt disse teknologier, og hvordan de understøtter funktionaliteten i jeres projekt.
 
-I dette afsnit skal I give en kort introduktion til kodebasen, ved at beskrive jeres **tech-stack:** hvilke teknologier i har anvendt for at udvikle websitet.
 
-## Projektstruktur
+## Gruppens aftale omkring navngivning af filer og mapper:
+I dette afsnit skal i beslutte hvordan I som gruppe vil navngive filer og mapper for at sikre en ensartet struktur og undgå forvirring.
 
-Her beskrives mappestrukturen for projektet. Angiv, hvordan filerne er organiseret, og hvad deres roller er. Se eksemplet nedenfor:
+- Hvordan navngiver vi filnavne? (fx små bogstaver, ingen mellemrum, brug af - eller _)
+- Hvordan skal CSS- og JavaScript-filer navngives? (fx base.css og base.js)
+- Hvordan sikrer I, at filerne er lette at finde og forstå?
+
+I dette afsnit skal I som gruppe udarbejde en aftale, der sikrer en ensartet navngivning, en klar projektstruktur, der minimerer forvirring og konflikter i Git. Aftalen skal være en rettesnor for alle gruppemedlemmer og sikre, at koden forbliver overskuelig og let at arbejde med.
 
 ```
 /webprojekt
@@ -16,7 +21,7 @@ Her beskrives mappestrukturen for projektet. Angiv, hvordan filerne er organiser
     │── base.js      # JS brugt på tværs af projektet
 ```
 
-Forklar kort, hvilke formål de enkelte filer har.
+Forklar kort, hvilke formål de enkelte filer har. se ovenstående eksempel:
 
 ## Funktionalitet
 

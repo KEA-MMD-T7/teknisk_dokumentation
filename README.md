@@ -3,6 +3,9 @@ Når man er flere der bidrager til en kodebase, lærer man hurtigt, at ens sædv
 
 Skriv derfor jeres fælles retningslinjer for punkterne herunder(tilføj gerne flere selv), sådan som det giver bedst mening for jer som gruppe. Dokumentationen sikre, at jeres fælles kodebase forbliver overskuelig, er let at arbejde med og til at forstå for alle, og at I undgå konflikter, og har nemmere ved at hjælpe hinanden undervejs.
 
+Henvis med link til jeres README.md i dokumentationsrapporten: 
+(fx. https://github.com/KEA-MMD-T7/teknisk_dokumentation/edit/main/README.md)
+
 ## Projektstruktur:
 Beslut, hvordan I vil organisere jeres projekt – struktur for mapper og filer.
 - Hvordan organiserer I billeder, fonte og andre ressourcer?

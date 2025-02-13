@@ -17,7 +17,7 @@ Beslutte hvordan i vil navngive filer og mapper for at sikre en ensartet struktu
 ## Link til scripts:
 - Hvor placerer I script referencer i HTML'en? (fx i <head> med defer attribute, eller sidst i <body>)
 
-## Branches:
+## Git branches:
 - Hvordan navngiver I branches, så alle kan forstår hvem der arbejder branchen og på hvad?(fx feature-lotte-formular)
 
 ## Arbejdsflow:

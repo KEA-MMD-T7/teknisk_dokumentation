@@ -29,4 +29,21 @@ Beslutte hvordan i vil navngive filer og mapper for at sikre en ensartet struktu
 - Beslut hvilken CSS selector i benyttes til referener i henholdsvis CSS og JavaScript(fx. id'er til JavaScript og Classes til CSS)
 - Skal filer have korte forklaringer som kommentarer?
 
+# Funktionalitet
+Dette afsnit skal forklare hvad I konkret har arbejde med, for at udvikle websitet. Tænk over hvilke interaktioner brugeren kan foretage på sitet? Eller hvordan websitet håndterer data? Eksempler på funktionalitet, der kan beskrives:
+
+- Hentning af produkter fra en API.
+- Filtrering af produkter baseret på brugerens valg.
+- Dynamisk visning af produkter i HTML.
+
+Brug korte beskrivelser, som i eksemplerne herover
+
+## Dokumentation af Funktion
+Dette afsnit skal beskrive en funktion I selv har udviklet. Det kunne eksempelvis være en funktion der generere en listen over fx. produkter: 
+
+- Beskrivelse: Hvad gør funktionen? Hvordan spiller den sammen med resten af koden?
+- Parametre: Hvilke input forventes (fx en værdi fra en dropdown eller URL'en)?
+- Returnerer: Beskriv, om funktionen returnerer en værdi eller blot manipulerer DOM’en.
+- Eksempel på brug: Vis, hvordan funktionen kaldes og anvendes.
+- Inkluder selve koden for den valgte funktion.
 

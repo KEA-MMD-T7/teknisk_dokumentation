@@ -1,10 +1,7 @@
 # Teknisk Dokumentation for Tema 7 Projekt
-I den tekniske dokumentation skal I beslutte fælles retningslinjer for, hvordan I arbejder i projektet. Målet er, at uanset hvor I arbejder i kodebasen, skal filerne være lette at forstå og have en ensartet navngivning, som hvis I selv havde navngivet dem 
+Når I er flere der bidrager til én kodebase, lærer man hurtigt, at ens sædvanlige måder at gøre tingene på ikke nødvendigvis er logisk for alle.
 
-## Kode Styleguide
-Når I er flere der bidrager til én kodebase, lærer man hurtigt, at ens sædvanlige måder at gøre tingene på ikke nødvendigvis er logisk for alle. Derfor skal I herunder dokumentere nogen retningslinier, der sikre, at koden forbliver overskuelig og let at arbejde med og til at forstå for alle.
-
-Skriv jeres fælles retningslinjer for punkterne herunder, sådan som det giver bedst mening for jer. Dokumentationen sikre, at jeres fælles kodebase forbliver overskuelig, er let at arbejde med og til at forstå for alle. At I undgå konflikter, og gør det nemmere at hjælpe hinanden undervejs.
+Skriv jeres fælles retningslinjer for punkterne herunder(tilføj gerne flere selv), sådan som det giver bedst mening for jer. Dokumentationen sikre, at jeres fælles kodebase forbliver overskuelig, er let at arbejde med og til at forstå for alle. At I undgå konflikter, og gør det nemmere at hjælpe hinanden undervejs.
 
 ## Projektstruktur:
 Beslut, hvordan I vil organisere jeres projekt – struktur for mapper og filer.
@@ -31,4 +28,4 @@ Beslutte hvordan i vil navngive filer og mapper for at sikre en ensartet struktu
 - Hvordan skriver i funktioner i JavaScript?(fx med function keyword eller som arrow functions)
 - Beslut hvilken CSS selector i benyttes til referener i henholdsvis CSS og JavaScript(fx. id'er til JavaScript og Classes til CSS)
 
-Skriv jeres egne retningslinjer for punkterne ovenfor, sådan som det giver bedst mening for jer. Dokumentationen skal sikre, at alle i gruppen følger de samme principper for at undgå konflikter, skabe en overskuelig kodebase og gøre det nemmere at hjælpe hinanden undervejs
+

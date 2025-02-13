@@ -49,5 +49,8 @@ Dette afsnit skal beskrive en funktion I selv har udviklet. Det kunne eksempelv
 - Parametre: Hvilke input forventes (fx en værdi fra en dropdown eller URL'en)?
 - Returnerer: Beskriv, om funktionen returnerer en værdi eller blot manipulerer DOM’en.
 - Eksempel på brug: Vis, hvordan funktionen kaldes og anvendes.
-- Inkluder koden for den valgte funktion herunder:
-
+- Inkluder koden for den valgte funktion herunder: ()
+```javascript
+function voresFunktion(){console.log("JavaScript syntax highlighting")};
+voresFunktion();
+```

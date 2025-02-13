@@ -6,7 +6,7 @@ Skriv derfor jeres fælles retningslinjer for punkterne herunder(tilføj gerne f
 ## Projektstruktur:
 Beslut, hvordan I vil organisere jeres projekt – struktur for mapper og filer.
 - Hvordan organiserer I billeder, fonte og andre ressourcer?
-- Hvor placerer I boilerplate?(fx CSS- og JavaScript-filer, der bruges op tværs af projektet)
+- Hvor placerer I boilerplate?(fx CSS- og JavaScript-filer, der bruges på tværs af projektet)
 - Hvor placerer I HTML, CSS- og JavaScript-filer til fx detaljevisning og listevisning?
 
 ## Navngivning:

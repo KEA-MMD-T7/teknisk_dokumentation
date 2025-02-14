@@ -3,7 +3,7 @@ Når man er flere der bidrager til en kodebase, lærer man hurtigt, at ens sædv
 
 Skriv derfor jeres fælles retningslinjer for punkterne herunder(tilføj gerne flere selv), sådan som det giver bedst mening for jer som gruppe. Dokumentationen sikre, at jeres fælles kodebase forbliver overskuelig, er let at arbejde med og til at forstå for alle, og at I undgå konflikter, og har nemmere ved at hjælpe hinanden undervejs.
 
-Life hack:
+**Life hack:**
 Markdown gør det muligt at formatere teksten, inkludere links, billeder og kodeeksempler på en struktureret og overskuelig måde. Dette gør dokumentationen lettere at læse og forstå i modsætning til en PDF, som kan være tung at navigere i, især når der er behov for hurtig reference.
 Markdown cheatsheet: <https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet>
 
